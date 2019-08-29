@@ -4,4 +4,4 @@
 * [Git Cheat-sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 # Support cours (versions condensées, volontairement incomplètes) :
-* [Introduction : Rappels](http://pageperso.lis-lab.fr/~petru.valicov/Cours/M3105/Rappels_x4.pdf)
+* [Introduction : Rappels](https://pageperso.lis-lab.fr/~petru.valicov/Cours/M3105/Introduction_x4.pdf)

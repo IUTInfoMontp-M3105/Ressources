@@ -6,4 +6,4 @@
 ### Support de cours (versions condensées, volontairement incomplètes) :
 * Partie 1 : [Introduction : Rappels](https://pageperso.lis-lab.fr/~petru.valicov/Cours/M3105/Introduction_x4.pdf)
 * Partie 2 : [Principes SOLID](https://pageperso.lis-lab.fr/~petru.valicov/Cours/M3105/SOLID_x4.pdf)
-* Partie 3 : [Desing Patterns](https://pageperso.lis-lab.fr/~petru.valicov/Cours/M3105/DP_x4.pdf)
+* Partie 3 : [Design Patterns](https://pageperso.lis-lab.fr/~petru.valicov/Cours/M3105/DP_x4.pdf)
